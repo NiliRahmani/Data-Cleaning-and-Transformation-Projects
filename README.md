@@ -1,5 +1,10 @@
 # FIFA 23 Players Dataset: Data Cleansing and Transformation
 
+<p align="center">
+  <img src="https://github.com/NiliRahmani/Data-Cleaning-and-Transformation-Projects/assets/73630839/435df133-0490-4634-987b-252d3873b072" alt="maxresdefault" width="550" height="320">
+</p>
+
+
 This repository contains a Jupyter Notebook focusing on cleaning and transforming the FIFA 23 Players dataset obtained from Kaggle. The notebook performs various data preprocessing steps and exploratory analysis on the dataset.
 
 ## Overview
