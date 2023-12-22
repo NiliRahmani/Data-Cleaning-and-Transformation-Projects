@@ -1,6 +1,10 @@
 # Data Cleansing and Transformation Projects
 
-This repository contains Jupyter Notebooks focusing on data cleaning, analysis, and exploration of datasets related to FIFA 23 Players and Data Science Job Postings on Glassdoor.
+This repository contains Jupyter Notebooks focusing on data cleaning, analysis, and exploration of 2 datasets:
+
+**1. FIFA 23 Players** 
+
+**2. Data Science Job Postings on Glassdoor**
 
 ## FIFA 23 Players Dataset
 <p align="center">
